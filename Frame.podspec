@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 
-  spec.name         = "Frame"
+  spec.name         = "AhmdFrame"
   spec.version      = "0.0.1"
   spec.summary      = "jlfkhsdjkfbds dskfbdskhf dscsdas"
   spec.description  = <<-DESC
